@@ -30,8 +30,3 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 </div>
-<h2 align="left">🎮 My Contributions</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
-</p>
