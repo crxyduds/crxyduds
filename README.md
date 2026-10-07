@@ -29,4 +29,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 </div>
 
-<img width="364" height="205" alt="serious-girl 3840x2160" src="https://github.com/user-attachments/assets/a585aec5-ab43-4bc4-ac7b-65555e62ea2d" />
+
+
