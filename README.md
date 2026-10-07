@@ -5,10 +5,10 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  ✨ Creating bugs since 2024<br>
-  📚 I'm currently learning Web Development, Python, JavaScript and Git<br>
-  🎯 Goals: Become a professional software developer<br>
-  🎲 Fun fact: I enjoy creating projects and learning by doing
+   Creating bugs since 2024<br>
+   I'm currently learning Web Development, Python, JavaScript and Git<br>
+   Goals: Become a professional software developer<br>
+   Fun fact: I enjoy creating projects and learning by doing
 </p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
